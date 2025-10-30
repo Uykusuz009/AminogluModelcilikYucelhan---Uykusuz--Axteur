@@ -1,0 +1,21 @@
+<meta>
+	<info type="misc" name="fully tunable" author="LargeS" description="fully tunable" version="1.0" />
+
+	 <file src="Larges/1.txd" />
+	 <file src="Larges/2.dff" />
+	 <file src="Larges/3.dff" />
+	 <file src="Larges/4.dff" />
+	 <file src="Larges/5.dff" />
+	 <file src="Larges/6.dff" />
+	 <file src="Larges/7.dff" />
+	 <file src="Larges/8.dff" />
+	 <file src="Larges/9.dff" />
+	 <file src="Larges/10.dff" />
+	 <file src="Larges/11.dff" />
+	 <file src="Larges/12.dff" />
+	 <file src="Larges/13.dff" />
+	 <file src="Larges/14.dff" />
+	 <file src="Larges/15.dff" />
+	 <file src="Larges/16.dff" />
+	 <script type="client" src="lancer.lua" />
+</meta>

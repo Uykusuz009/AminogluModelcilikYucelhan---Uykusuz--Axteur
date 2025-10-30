@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="fully tunable" author="larges" description="fully tunable" version="1.0" />
+
+	 <file src="350z/350z.txd" />
+	 <file src="350z/350z.dff" />
+	 <script type="client" src="350z.lua" />
+</meta>

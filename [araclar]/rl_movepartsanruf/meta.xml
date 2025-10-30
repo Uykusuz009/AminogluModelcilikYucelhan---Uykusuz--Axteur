@@ -1,0 +1,19 @@
+<meta>
+    <info author="Wherry" version="17-12-04" name="Car moving parts" type="script"/>
+    <oop>true</oop>
+
+	
+    <!-- <script type="client" src="client/utils.luac"/> -->
+    <!-- <script type="client" src="client/animations.luac"/> -->
+    <!-- <script type="client" src="client/animator.luac"/> -->
+    <!-- <script type="client" src="client/main.luac"/> -->
+    <script type="client" cache="false" src="client/utils.lua"/>
+    <script type="client" cache="false" src="client/animations.lua"/>
+    <script type="client" cache="false" src="client/animator.lua"/>
+    <script type="client" cache="false" src="client/main.lua"/>
+
+	
+    <script type="server" src="server/exports.lua"/>
+
+    <export type="server" function="setVehicleMovpartsState"/>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="fully tunable" author="larges" description="fully tunable" version="1.0" />
+
+	 <file src="larges/larges.txd" />
+	 <file src="larges/larges.dff" />
+	 <script type="client" src="larges.lua" />
+</meta>

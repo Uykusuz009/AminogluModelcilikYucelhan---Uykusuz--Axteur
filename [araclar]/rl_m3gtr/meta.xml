@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="fully tunable" author="larges" description="fully tunable" version="1.0" />
+
+	 <file src="m3gtr/m3gtr.txd" />
+	 <file src="m3gtr/m3gtr.dff" />
+	 <script type="client" src="m3gtr.lua" />
+</meta>

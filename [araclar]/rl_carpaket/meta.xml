@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meta>
+	<oop>true</oop>
+	<info author="roaboar,Mahlukat" version="1.0.2" name="Mod Loader and Mod Manager" type="script" />
+
+	<script src="settings.lua" type="client" cache="false" />
+	<script src="client1.lua" type="client" cache="false" />
+	<script src="panel.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+
+	<export function="getMods" type="client" />
+	
+	<file src="files/450.txd" download="false" model="450" isim="DORSE" />
+	<file src="files/450.dff" download="false" model="450" isim="DORSE" />
+	
+	<file src="files/459.txd" download="false" model="459" isim="servis" />
+	<file src="files/459.dff" download="false" model="459" isim="servis" />
+
+	<file src="files/589.txd" download="false" model="589" isim="focus" />
+	<file src="files/589.dff" download="false" model="589" isim="focus" />
+	
+	<file src="files/454.txd" download="false" model="454" isim="yat" />
+	<file src="files/454.dff" download="false" model="454" isim="yat" />
+	
+	<file src="files/438.txd" download="false" model="438" isim="focustaxi" />
+	<file src="files/438.dff" download="false" model="438" isim="focustaxi" />
+	
+	<file src="files/420.txd" download="false" model="420" isim="corollataxi" />
+	<file src="files/420.dff" download="false" model="420" isim="corollataxi" />
+	
+	<file src="files/483.txd" download="false" model="483" isim="dolmuş" />
+	<file src="files/483.dff" download="false" model="483" isim="dolmuş" />
+	
+	<file src="files/431.txd" download="false" model="431" isim="man" />
+	<file src="files/431.dff" download="false" model="431" isim="man" />
+	
+	<file src="files/437.txd" download="false" model="437" isim="mersootobüs" />
+	<file src="files/437.dff" download="false" model="437" isim="mersootobüs" />
+
+	<file src="files/458.txd" download="false" model="458" isim="a4avant" />
+	<file src="files/458.dff" download="false" model="458" isim="a4avant" />
+
+	<file src="files/584.txd" download="false" model="584" isim="DORSE" />
+	<file src="files/584.dff" download="false" model="584" isim="DORSE" />
+
+	<file src="files/435.txd" download="false" model="435" isim="DORSE" />
+	<file src="files/435.dff" download="false" model="435" isim="DORSE" />
+	
+	<file src="files/561.txd" download="false" model="561" isim="Cherry" />
+	<file src="files/561.dff" download="false" model="561" isim="Cherry" />
+
+	<file src="files/466.txd" download="false" model="466" isim="POLO" />
+	<file src="files/466.dff" download="false" model="466" isim="POLO" />
+
+
+	<file src="files/591.txd" download="false" model="591" isim="DORSE" />
+	<file src="files/591.dff" download="false" model="591" isim="DORSE" />
+
+	<file src="files/418.txd" download="false" model="418" isim="transporter" />
+	<file src="files/418.dff" download="false" model="418" isim="transporter" />
+
+	<file src="files/489.txd" download="false" model="489" isim="transit" />
+	<file src="files/489.dff" download="false" model="489" isim="transit" />
+	
+	<file src="files/436.txd" download="false" model="436" isim="e36" />
+	<file src="files/436.dff" download="false" model="436" isim="e36" />
+
+	<file src="files/535.txd" download="false" model="535" isim="e30" />
+	<file src="files/535.dff" download="false" model="535" isim="e30" />
+
+
+	<file src="files/443.txd" download="false" model="443" isim="mtl" />
+	<file src="files/443.dff" download="false" model="443" isim="mtl" />
+
+	<file src="files/522.txd" download="false" model="522" isim="h2r" />
+	<file src="files/522.dff" download="false" model="522" isim="h2r" />
+	
+	<file src="files/416.txd" download="false" model="416" isim="am-bulan-ce" />
+	<file src="files/416.dff" download="false" model="416" isim="am-bulan-ce" />
+
+	<file src="files/605.txd" download="false" model="605" isim="hondacivicek" />
+	<file src="files/605.dff" download="false" model="605" isim="hondacivicek" />
+
+	<file src="files/604.txd" download="false" model="604" isim="vtec" />
+	<file src="files/604.dff" download="false" model="604" isim="vtec" />
+
+	<file src="files/477.txd" download="false" model="477" isim="bmw8series" />
+	<file src="files/477.dff" download="false" model="477" isim="bmw8series" />
+
+	<file src="files/533.txd" download="false" model="533" isim="z4" />
+	<file src="files/533.dff" download="false" model="533" isim="z4" />
+
+	<file src="files/543.txd" download="false" model="543" isim="e92" />
+	<file src="files/543.dff" download="false" model="543" isim="e92" />
+
+	<file src="files/412.txd" download="false" model="412" isim="c63" />
+	<file src="files/412.dff" download="false" model="412" isim="c63" />
+
+	<file src="files/581.txd" download="false" model="581" isim="bmws1000rr" />
+	<file src="files/581.dff" download="false" model="581" isim="bmws1000rr" />
+
+	<file src="files/518.txd" download="false" model="518" isim="rx8" />
+	<file src="files/518.dff" download="false" model="518" isim="rx8" />
+
+	<file src="files/479.txd" download="false" model="479" isim="egea" />
+	<file src="files/479.dff" download="false" model="479" isim="egea" />
+
+	<file src="files/545.txd" download="false" model="545" isim="formula" />
+	<file src="files/545.dff" download="false" model="545" isim="formula" />
+
+	<file src="files/422.txd" download="false" model="422" isim="pickup" />
+	<file src="files/422.dff" download="false" model="422" isim="pickup" />
+
+	<file src="files/550.txd" download="false" model="550" isim="f30" />
+	<file src="files/550.dff" download="false" model="550" isim="f30" />
+
+	<file src="files/541.txd" download="false" model="541" isim="gtr" />
+	<file src="files/541.dff" download="false" model="541" isim="gtr" />
+
+	<file src="files/401.txd" download="false" model="401" isim="tesla" />
+	<file src="files/401.dff" download="false" model="401" isim="tesla" />
+
+	<file src="files/502.txd" download="false" model="502" isim="huracan" />
+	<file src="files/502.dff" download="false" model="502" isim="huracan" />
+
+	<file src="files/461.txd" download="false" model="461" isim="cg" />
+	<file src="files/461.dff" download="false" model="461" isim="cg" />
+
+	<file src="files/601.txd" download="false" model="601" isim="polisitfayesi" />
+	<file src="files/601.dff" download="false" model="601" isim="polisitfayesi" />
+
+	<file src="files/566.txd" download="false" model="566" isim="merso" />
+	<file src="files/566.dff" download="false" model="566" isim="merso" />
+
+	<file src="files/517.txd" download="false" model="517" isim="i8" />
+	<file src="files/517.dff" download="false" model="517" isim="i8" />
+
+	<file src="files/421.txd" download="false" model="421" isim="dodgec" />
+	<file src="files/421.dff" download="false" model="421" isim="dodgec" />
+
+	<file src="files/428.txd" download="false" model="428" isim="polistank" />
+	<file src="files/428.dff" download="false" model="428" isim="polistank" />
+
+	<file src="files/488.txd" download="false" model="488" isim="trpolishelikopter" />
+	<file src="files/488.dff" download="false" model="488" isim="trpolishelikopter" />
+
+	<file src="files/529.txd" download="false" model="529" isim="toros" />
+	<file src="files/529.dff" download="false" model="529" isim="toros" />
+
+	<file src="files/408.txd" download="false" model="408" isim="copcu" />
+	<file src="files/408.dff" download="false" model="408" isim="copcu" />
+
+	<file src="files/409.txd" download="false" model="409" isim="limuzin" />
+	<file src="files/409.dff" download="false" model="409" isim="limuzin" />
+
+	<file src="files/410.txd" download="false" model="410" isim="mazerati" />
+	<file src="files/410.dff" download="false" model="410" isim="mazerati" />
+
+	<file src="files/445.txd" download="false" model="445" isim="e60" />
+	<file src="files/445.dff" download="false" model="445" isim="e60" />
+
+	<file src="files/503.txd" download="false" model="503" isim="600lt" />
+	<file src="files/503.dff" download="false" model="503" isim="600lt" />
+
+	<file src="files/521.txd" download="false" model="521" isim="r6" />
+	<file src="files/521.dff" download="false" model="521" isim="r6" />
+
+	<file src="files/603.txd" download="false" model="603" isim="m4" />
+	<file src="files/603.dff" download="false" model="603" isim="m4" />
+
+	<file src="files/495.txd" download="false" model="495" isim="RangeSport" />
+	<file src="files/495.dff" download="false" model="495" isim="RangeSport" />
+
+	<file src="files/411.txd" download="false" model="411" isim="Agera" />
+	<file src="files/411.dff" download="false" model="411" isim="Agera" />
+
+	<file src="files/497.txd" download="false" model="497" isim="polishelikopter" />
+	<file src="files/497.dff" download="false" model="497" isim="polishelikopter" />
+
+	<file src="files/487.txd" download="false" model="487" isim="helikopter" />
+	<file src="files/487.dff" download="false" model="487" isim="helikopter" />
+
+	<file src="files/470.txd" download="false" model="470" isim="x5" />
+	<file src="files/470.dff" download="false" model="470" isim="x5" />
+
+	<file src="files/515.txd" download="false" model="515" isim="tır" />
+	<file src="files/515.dff" download="false" model="515" isim="tır" />
+
+	<file src="files/403.txd" download="false" model="403" isim="tır" />
+	<file src="files/403.dff" download="false" model="403" isim="tır" />
+
+	<file src="files/492.txd" download="false" model="492" isim="corolla" />
+	<file src="files/492.dff" download="false" model="492" isim="corolla" />
+
+	<file src="files/467.txd" download="false" model="467" isim="passat" />
+	<file src="files/467.dff" download="false" model="467" isim="passat" />
+
+	<file src="files/585.txd" download="false" model="585" isim="c63" />
+	<file src="files/585.dff" download="false" model="585" isim="c63" />
+
+	<file src="files/407.txd" download="false" model="407" isim="itfaye" />
+	<file src="files/407.dff" download="false" model="407" isim="itfaye" />
+
+	<file src="files/491.txd" download="false" model="491" isim="rs5" />
+	<file src="files/491.dff" download="false" model="491" isim="rs5" />
+
+	<file src="files/404.txd" download="false" model="404" isim="f10" />
+	<file src="files/404.dff" download="false" model="404" isim="f10" />
+
+	<file src="files/405.txd" download="false" model="405" isim="tofas" />
+	<file src="files/405.dff" download="false" model="405" isim="tofas" />
+
+	<file src="files/426.txd" download="false" model="426" isim="golf" />
+	<file src="files/426.dff" download="false" model="426" isim="golf" />
+
+	<file src="files/546.txd" download="false" model="546" isim="dacia" />
+	<file src="files/546.dff" download="false" model="546" isim="dacia" />
+
+	<file src="files/507.txd" download="false" model="507" isim="fordic" />
+	<file src="files/507.dff" download="false" model="507" isim="fordic" />
+
+	<file src="files/551.txd" download="false" model="551" isim="bora" />
+	<file src="files/551.dff" download="false" model="551" isim="bora" />
+	
+	<file src="files/429.txd" download="false" model="429" isim="718" />
+	<file src="files/429.dff" download="false" model="429" isim="718" />
+
+	<file src="files/516.txd" download="false" model="516" isim="a6" />
+	<file src="files/516.dff" download="false" model="516" isim="a6" />
+
+	<file src="files/480.txd" download="false" model="480" isim="s2k" />
+	<file src="files/480.dff" download="false" model="480" isim="s2k" />
+
+	<file src="files/547.txd" download="false" model="547" isim="merso" />
+	<file src="files/547.dff" download="false" model="547" isim="merso" />
+
+	<file src="files/496.txd" download="false" model="496" isim="scirocco" />
+	<file src="files/496.dff" download="false" model="496" isim="scirocco" />
+
+	<file src="files/598.txd" download="false" model="598" isim="polis" />
+	<file src="files/598.dff" download="false" model="598" isim="polis" />
+
+	<file src="files/597.txd" download="false" model="597" isim="polis" />
+	<file src="files/597.dff" download="false" model="597" isim="polis" />
+
+	<file src="files/596.txd" download="false" model="596" isim="polis" />
+	<file src="files/596.dff" download="false" model="596" isim="polis" />
+
+	<file src="files/550.txd" download="false" model="550" isim="340i" />
+	<file src="files/550.dff" download="false" model="550" isim="340i" />
+
+	<file src="files/400.txd" download="false" model="400" isim="range" />
+	<file src="files/400.dff" download="false" model="400" isim="range" />
+
+	<file src="files/506.txd" download="false" model="506" isim="812" />
+	<file src="files/506.dff" download="false" model="506" isim="812" />
+
+	<file src="files/602.txd" download="false" model="602" isim="mustang" />
+	<file src="files/602.dff" download="false" model="602" isim="mustang" />
+
+	<file src="files/587.txd" download="false" model="587" isim="c6" />
+	<file src="files/587.dff" download="false" model="587" isim="c6" />
+
+	<file src="files/494.txd" download="false" model="494" isim="pagani" />
+	<file src="files/494.dff" download="false" model="494" isim="pagani" />
+
+	<file src="files/415.txd" download="false" model="415" isim="r8" />
+	<file src="files/415.dff" download="false" model="415" isim="r8" />
+
+	<file src="files/540.txd" download="false" model="540" isim="maybach" />
+	<file src="files/540.dff" download="false" model="540" isim="maybach" />
+
+	<file src="files/579.txd" download="false" model="579" isim="urus" />
+	<file src="files/579.dff" download="false" model="579" isim="urus" />
+
+	<file src="files/580.txd" download="false" model="580" isim="rollsroyce" />
+	<file src="files/580.dff" download="false" model="580" isim="rollsroyce" />
+
+</meta>

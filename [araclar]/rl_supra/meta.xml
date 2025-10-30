@@ -1,0 +1,21 @@
+<meta>
+	<info type="misc" name="fully tunable" author="y7celhan" description="fully tunable" version="1.0" />
+
+	 <file src="y7celhan/1.txd" />
+	 <file src="y7celhan/2.dff" />
+	 <file src="y7celhan/3.dff" />
+	 <file src="y7celhan/4.dff" />
+	 <file src="y7celhan/5.dff" />
+	 <file src="y7celhan/6.dff" />
+	 <file src="y7celhan/7.dff" />
+	 <file src="y7celhan/8.dff" />
+	 <file src="y7celhan/9.dff" />
+	 <file src="y7celhan/10.dff" />
+	 <file src="y7celhan/11.dff" />
+	 <file src="y7celhan/12.dff" />
+	 <file src="y7celhan/13.dff" />
+	 <file src="y7celhan/14.dff" />
+	 <file src="y7celhan/15.dff" />
+	 <file src="y7celhan/16.dff" />
+	 <script type="client" src="supra.lua" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="fully tunable" author="y7celhan" description="fully tunable" version="1.0" />
+
+	 <file src="y7celhan/y7celhan.txd" />
+	 <file src="y7celhan/y7celhan.dff" />
+	 <script type="client" src="1.lua" />
+</meta>
